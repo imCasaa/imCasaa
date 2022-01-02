@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @imCasaa
+- 👀 I’m interested in coding/game hacking 
+- 🌱 I’m currently learning Python/AHK Script/C & C++
